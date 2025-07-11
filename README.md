@@ -49,10 +49,10 @@ I’m also working on building a guide for Spring Boot. Check it [here 🌐](htt
   **Master of Technology in Computer Science**  
   *July 2020 – June 2022*
 
-- 💻 **Ajay Kumar Garg Engineering College**, Ghaziabad - UP  
+- **Ajay Kumar Garg Engineering College**, Ghaziabad - UP  
   **Bachelor of Technology in Computer Science**  
   *July 2015 – May 2019*  
   
-- 🏫 **Dr. Virendra Swarup Education Centre Avadhpuri**, Kanpur - UP  
+- **Dr. Virendra Swarup Education Centre Avadhpuri**, Kanpur - UP  
   **CISCE Board**  
   *Till May 2014*  
